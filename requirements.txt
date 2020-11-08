@@ -7,3 +7,4 @@ werkzeug==1.0.0           # via flask
 pandas
 numpy
 yfinance
+pandas_datareader
